@@ -10,6 +10,7 @@
 - [nodeWechat/wechat4u](https://github.com/nodeWechat/wechat4u): <sup>(个人号)</sup> <sup>(SDK)</sup> 微信网页版接口的JavaScript实现，兼容Node和浏览器
 - [baoshan/wx](https://github.com/baoshan/wx): <sup>(公众号)</sup> <sup>(SDK)</sup> (minimalist) WeChat Middleware for Express.js
 - [node-webot/wechat](https://github.com/node-webot/wechat): <sup>(公众号)</sup> <sup>(SDK)</sup> 微信公共平台消息接口服务中间件
+- [fritx/wxchangba](https://github.com/fritx/wxchangba): <sup>(公众号)</sup> <sup>(App)</sup> 微信唱吧: 基于node.js和微信jssdk的校园轻应用
 
 
 ## Python
@@ -21,7 +22,7 @@
 - [MaskRay/wechatircd](https://github.com/MaskRay/wechatircd): <sup>(个人号)</sup> <sup>(CLI)</sup> 用IRC客户端控制微信网页版
 - [lyyyuna/wechat_robot](https://github.com/lyyyuna/wechat_robot): <sup>(个人号)</sup> <sup>(CLI)</sup> 微信聊天机器人（个人账号，非订阅号）
 - [whtsky/WeRoBot](https://github.com/whtsky/WeRoBot): <sup>(公众号)</sup> <sup>(SDK)</sup> WeRoBot是一个微信机器人框架
-- [jeffkit/wechat](https://github.com/jeffkit/wechat): <sup>(公众号)</sup> <sup>(SDK)</sup> WeRoBot是一个微信机器人框架
+- [jeffkit/wechat](https://github.com/jeffkit/wechat): <sup>(公众号)</sup> <sup>(SDK)</sup> A wechat python SDK
 
 
 ## PHP
