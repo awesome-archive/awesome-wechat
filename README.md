@@ -15,6 +15,7 @@
 
 ## Python
 
+- [LittleCoder/itchat](https://github.com/littlecodersh/ItChat): <sup>(个人号)</sup> <sup>(SDK)</sup> 微信个人号接口，三十行即可自定义个人号机器人
 - [0x5e/wechat-deleted-friends](https://github.com/0x5e/wechat-deleted-friends): <sup>(个人号)</sup> <sup>(CLI)</sup> 查看被删的微信好友
 - [Urinx/WeixinBot](https://github.com/Urinx/WeixinBot): <sup>(个人号)</sup> <sup>(CLI)</sup> 网页版微信API，包含终端版微信及微信机器人
 - [liuwons/wxBot](https://github.com/liuwons/wxBot): <sup>(个人号)</sup> <sup>(CLI)</sup> Python网页微信API
