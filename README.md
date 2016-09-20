@@ -36,9 +36,9 @@
 - [goofansu/wechat-starter](https://github.com/goofansu/wechat-starter): <sup>(公众号)</sup> <sup>(Framework)</sup> Template for developing wechat in rails.
 
 
-## Erlang
+## Elixir
 
-- [goofansu/wechat-center](https://github.com/goofansu/wechat-center): <sup>(公众号)</sup> <sup>(CLI)</sup> 微信中控服务器
+- [goofansu/wechat-elixir](https://github.com/goofansu/wechat-elixir): <sup>(公众号)</sup> <sup>(CLI)</sup> Wechat sdk for Elixir
 
 
 ## Docs
