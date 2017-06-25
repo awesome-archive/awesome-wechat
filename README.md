@@ -12,6 +12,8 @@
 - [baoshan/wx](https://github.com/baoshan/wx): <sup>(公众号)</sup> <sup>(SDK)</sup> (minimalist) WeChat Middleware for Express.js
 - [node-webot/wechat](https://github.com/node-webot/wechat): <sup>(公众号)</sup> <sup>(SDK)</sup> 微信公共平台消息接口服务中间件
 - [fritx/wxchangba](https://github.com/fritx/wxchangba): <sup>(公众号)</sup> <sup>(App)</sup> 微信唱吧: 基于node.js和微信jssdk的校园轻应用
+- [fritx/share.wx](https://github.com/fritx/share.wx): <sup>(公众号)</sup> <sup>(App)</sup> 微信jssdk 分享生成器
+- [fritx/mp.wx](https://github.com/fritx/mp.wx): <sup>(公众号)</sup> <sup>(Framework)</sup> 微信公众号项目后端架构
 
 
 ## Python
