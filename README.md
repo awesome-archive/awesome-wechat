@@ -1,7 +1,9 @@
 # awesome-wechat
 
 ## Java
-- [kanjielu/jeeves](https://github.com/kanjielu/jeeves):  (个人号) (CLI) 网页版微信API，包含终端版微信及微信机器人。 
+
+- [smokingrain/WeChat](https://github.com/smokingrain/WeChat): <sup>(个人号)</sup> <sup>(GUI)</sup> java微信客户端windows版。
+- [kanjielu/jeeves](https://github.com/kanjielu/jeeves): <sup>(个人号)</sup> <sup>(CLI)</sup> 网页版微信API，包含终端版微信及微信机器人。
 
 ## JavaScript
 
