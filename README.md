@@ -1,5 +1,7 @@
 # awesome-wechat
 
+## Java
+- [smokingrain/WeChat](https://github.com/smokingrain/WeChat): <sup>(个人号)</sup> <sup>(GUI)</sup> java微信客户端windows版。 
 
 ## JavaScript
 
