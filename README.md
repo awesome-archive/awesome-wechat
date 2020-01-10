@@ -1,5 +1,9 @@
 # awesome-wechat
 
+## Java
+
+- [smokingrain/WeChat](https://github.com/smokingrain/WeChat): <sup>(个人号)</sup> <sup>(GUI)</sup> java微信客户端windows版。
+- [kanjielu/jeeves](https://github.com/kanjielu/jeeves): <sup>(个人号)</sup> <sup>(CLI)</sup> 网页版微信API，包含终端版微信及微信机器人。
 
 ## JavaScript
 
@@ -7,10 +11,13 @@
 - [fritx/wxbot](https://github.com/fritx/wxbot): <sup>(个人号)</sup> <sup>(GUI)</sup> 普通个人号 微信机器人/外挂
 - [stonexer/wechatBot](https://github.com/stonexer/wechatBot): <sup>(个人号)</sup> <sup>(WebUI)</sup> 面向个人的微信机器人平台 - 使用微信网页版接口
 - [HalfdogStudio/wechat-user-bot](https://github.com/HalfdogStudio/wechat-user-bot): <sup>(个人号)</sup> <sup>(CLI)</sup> 正在组装中的微信机器人
+- [zixia/wechaty](https://github.com/zixia/wechaty): <sup>(个人号)</sup> <sup>(SDK)</sup> Wechat for Bot. Powered by WebDriver & Node.js
 - [nodeWechat/wechat4u](https://github.com/nodeWechat/wechat4u): <sup>(个人号)</sup> <sup>(SDK)</sup> 微信网页版接口的JavaScript实现，兼容Node和浏览器
 - [baoshan/wx](https://github.com/baoshan/wx): <sup>(公众号)</sup> <sup>(SDK)</sup> (minimalist) WeChat Middleware for Express.js
 - [node-webot/wechat](https://github.com/node-webot/wechat): <sup>(公众号)</sup> <sup>(SDK)</sup> 微信公共平台消息接口服务中间件
 - [fritx/wxchangba](https://github.com/fritx/wxchangba): <sup>(公众号)</sup> <sup>(App)</sup> 微信唱吧: 基于node.js和微信jssdk的校园轻应用
+- [fritx/share.wx](https://github.com/fritx/share.wx): <sup>(公众号)</sup> <sup>(App)</sup> 微信jssdk 分享生成器
+- [fritx/mp.wx](https://github.com/fritx/mp.wx): <sup>(公众号)</sup> <sup>(Framework)</sup> 微信公众号项目后端架构
 
 
 ## Python
@@ -28,11 +35,13 @@
 
 ## PHP
 
+- [thenbsp/wechat](https://github.com/thenbsp/wechat): <sup>(公众号)</sup> <sup>(SDK)</sup> 微信公众平台第三方 SDK 开发包，优雅、健壮，可扩展，遵循 PSR 开发规范
 - [overtrue/wechat](https://github.com/overtrue/wechat): <sup>(公众号)</sup> <sup>(SDK)</sup> 可能是目前最优雅的微信公众平台 SDK 了
 
 
 ## Ruby
 
+- [Eric-Guo/wechat](https://github.com/Eric-Guo/wechat/) <sup>(公众号)</sup> <sup>(Framework)</sup> 帮助开发者方便地在Rails环境中集成微信公众平台和企业平台提供的服务
 - [goofansu/wechat-starter](https://github.com/goofansu/wechat-starter): <sup>(公众号)</sup> <sup>(Framework)</sup> Template for developing wechat in rails.
 
 
@@ -43,6 +52,7 @@
 
 ## Docs
 
+- [RelatedProject - Chatie/wechaty Wiki](https://github.com/chatie/wechaty/wiki/RelatedProject)
 - [网页版微信抓包+注入实现表情贴纸显示](https://github.com/geeeeeeeeek/electronic-wechat/issues/2)
 - [wechatircd——用IRC客户端控制微信网页版](https://maskray.me/blog/2016-02-21-wechatircd)
 - [挖掘微信Web版通信的全过程](http://www.tanhao.me/talk/1466.html/)
